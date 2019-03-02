@@ -1,0 +1,13 @@
+{
+  "presets": [
+    "next/babel",
+    [
+      "airbnb",
+      {
+        "targets": {
+          "node": "current"
+        }
+      }
+    ]
+  ]
+}
